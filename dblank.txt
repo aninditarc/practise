@@ -1,0 +1,11 @@
+ Volume in drive C is OSDisk
+ Volume Serial Number is 4013-E1E4
+
+ Directory of C:\Users\a.c.roychowdhury\Documents\practise
+
+09/04/2017  01:55 PM    <DIR>          .
+09/04/2017  01:55 PM    <DIR>          ..
+09/04/2017  01:56 PM                 0 dblank.txt
+09/04/2017  01:56 PM                25 practise.bat
+               2 File(s)             25 bytes
+               2 Dir(s)  463,709,904,896 bytes free
